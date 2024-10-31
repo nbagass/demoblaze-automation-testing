@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat semua produk per kategori</description>
+   <name>TC_View_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6c54840-1df2-41eb-a731-c28f84db420a</testCaseGuid>
+</TestCaseEntity>

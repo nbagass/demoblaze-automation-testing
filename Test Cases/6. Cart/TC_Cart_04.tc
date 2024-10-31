@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan barang pada keranjang saat tidak login</description>
+   <name>TC_Cart_04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99ebf730-7531-462e-93ea-212d21e2df6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan check out dengan cart terisi barang dan mengosongkan form place order</description>
+   <name>TC_CheckOut_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8460563-3b88-40ed-b5c9-13dba728640c</testCaseGuid>
+</TestCaseEntity>

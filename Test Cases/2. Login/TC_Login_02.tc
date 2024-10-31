@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan login dengan akun yang sudah ada menggunakan password yang salah</description>
+   <name>TC_Login_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93587a3c-3eec-45dd-b2ca-3a4505e45ca3</testCaseGuid>
+</TestCaseEntity>

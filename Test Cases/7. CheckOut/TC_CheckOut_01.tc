@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan check out dengan cart terisi barang</description>
+   <name>TC_CheckOut_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>704706d1-3b99-4afd-98cc-6dc16ae42e1c</testCaseGuid>
+</TestCaseEntity>

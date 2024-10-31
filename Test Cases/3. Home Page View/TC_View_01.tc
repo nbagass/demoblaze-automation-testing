@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat home dengan tombol home</description>
+   <name>TC_View_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d4276b3-cb3d-4bde-919e-297bce0ec9f6</testCaseGuid>
+</TestCaseEntity>

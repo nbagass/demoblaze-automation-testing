@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat about us pada menu about us</description>
+   <name>TC_AboutUs_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e75981af-3eb9-4dbb-8057-cf477ea1edc2</testCaseGuid>
+</TestCaseEntity>

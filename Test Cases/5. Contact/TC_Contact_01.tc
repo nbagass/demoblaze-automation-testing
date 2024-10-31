@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengirim kontak dengan menggunakan format email pada kolom email</description>
+   <name>TC_Contact_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f785894f-d6e3-4ee4-a490-5caff95e7197</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan check out dengan cart terisi barang dan mengisi kolom name dan credit card namun mengosongkan field lainnya</description>
+   <name>TC_CheckOut_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f200270b-1e0a-4365-955a-c88fb0529402</testCaseGuid>
+</TestCaseEntity>

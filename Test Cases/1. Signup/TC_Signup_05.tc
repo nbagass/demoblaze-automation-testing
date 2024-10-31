@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan daftar akun dengan username karakter khusus</description>
+   <name>TC_Signup_05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2d5b119-7fb8-4cc4-8ec5-a8973b18b66a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan login dengan null value</description>
+   <name>TC_Login_04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1ed90f5-5da3-4706-a211-20f15ae70d8c</testCaseGuid>
+</TestCaseEntity>

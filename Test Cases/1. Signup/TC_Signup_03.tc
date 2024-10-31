@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melakukan daftar akun dengan value null</description>
+   <name>TC_Signup_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03eed17e-81f9-4a74-be0e-643d2bcffad1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan lebih dari 1 barang pada keranjang</description>
+   <name>TC_Cart_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a75adca-b4f4-4bf4-8aa6-efa78059ddf7</testCaseGuid>
+</TestCaseEntity>

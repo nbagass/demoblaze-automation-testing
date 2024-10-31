@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengirim kontak dengan mengosongkan salah satu field input</description>
+   <name>TC_Contact_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bb17797-f7cb-4dde-a76f-5329d68f4bd4</testCaseGuid>
+</TestCaseEntity>

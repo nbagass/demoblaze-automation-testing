@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghapus barang pada keranjang</description>
+   <name>TC_Cart_03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>705dc90d-517a-4215-83aa-11c2af94f8e3</testCaseGuid>
+</TestCaseEntity>

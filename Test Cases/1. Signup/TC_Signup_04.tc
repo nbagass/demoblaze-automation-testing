@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan daftar akun dengan username angka</description>
+   <name>TC_Signup_04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e75c97a9-6704-462c-82d2-0fc16b05f40e</testCaseGuid>
+</TestCaseEntity>

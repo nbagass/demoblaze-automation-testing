@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melakukan daftar akun dengan akun yang sudah pernah ada</description>
+   <name>TC_Signup_02</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>516a5607-0cf4-4cbb-a3e6-8197cff43f4e</testCaseGuid>
+</TestCaseEntity>
